@@ -40,7 +40,7 @@ class  Taiga(Forest):
 
 
 
-class Boron(On_sand, Pine):
+class Boron(Pine, On_sand):
     pass
 
 
